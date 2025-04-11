@@ -8,6 +8,12 @@
 *{
   margin: 0;
 }
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+
 .container-nav{
   margin: 14px auto;
   max-width: 1280px;
@@ -22,9 +28,6 @@
 }
 
 
-body {
-  font-family: "Poppins", sans-serif;
-}
 
 nav{
   display: flex;
